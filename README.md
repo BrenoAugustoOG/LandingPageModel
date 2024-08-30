@@ -34,8 +34,8 @@
 </p>
 
 <h2>Como Executar</h2>
-Faça o download do projeto ou clone este repositório.
-Abra o arquivo index.html em seu navegador.
+<p>Faça o download do projeto ou clone este repositório.</p>
+<p>Abra o arquivo index.html em seu navegador.</p>
 
 <h2>Melhorias Futuras</h2>
 <ul>
