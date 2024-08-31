@@ -43,6 +43,7 @@
     <li>Integração com APIs para conteúdo dinâmico.</li>
     <li>Aperfeiçoamento da acessibilidade e SEO.</li>
 </ul>
+
 <h2>Contato</h2>
 <p>Caso tenha alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato:</p>
 <ul>
